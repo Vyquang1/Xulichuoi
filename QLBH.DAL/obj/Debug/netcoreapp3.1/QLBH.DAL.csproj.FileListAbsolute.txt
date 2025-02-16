@@ -1,0 +1,31 @@
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\bin\Debug\netcoreapp3.1\QLBH.DAL.deps.json
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\bin\Debug\netcoreapp3.1\QLBH.DAL.dll
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\bin\Debug\netcoreapp3.1\QLBH.DAL.pdb
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\obj\Debug\netcoreapp3.1\QLBH.DAL.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\obj\Debug\netcoreapp3.1\QLBH.DAL.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\obj\Debug\netcoreapp3.1\QLBH.DAL.AssemblyInfo.cs
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\obj\Debug\netcoreapp3.1\QLBH.DAL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\obj\Debug\netcoreapp3.1\QLBH.DAL.dll
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\obj\Debug\netcoreapp3.1\QLBH.DAL.pdb
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\bin\Debug\netcoreapp3.1\QLBH.DAL.runtimeconfig.json
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\bin\Debug\netcoreapp3.1\QLBH.DAL.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\obj\Debug\netcoreapp3.1\QLBH.DAL.genruntimeconfig.cache
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\bin\Debug\netcoreapp3.1\QLBH.Common.dll
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\bin\Debug\netcoreapp3.1\QLBH.Common.pdb
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\obj\Debug\netcoreapp3.1\QLBH.DAL.csproj.CopyComplete
+C:\Users\LENOVO\OneDrive\Pictures\Máy tính\QLBH\QLBH.DAL\bin\Debug\netcoreapp3.1\QLBH.DAL.deps.json
+C:\Users\LENOVO\OneDrive\Pictures\Máy tính\QLBH\QLBH.DAL\bin\Debug\netcoreapp3.1\QLBH.DAL.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Pictures\Máy tính\QLBH\QLBH.DAL\bin\Debug\netcoreapp3.1\QLBH.DAL.runtimeconfig.dev.json
+C:\Users\LENOVO\OneDrive\Pictures\Máy tính\QLBH\QLBH.DAL\bin\Debug\netcoreapp3.1\QLBH.DAL.dll
+C:\Users\LENOVO\OneDrive\Pictures\Máy tính\QLBH\QLBH.DAL\bin\Debug\netcoreapp3.1\QLBH.DAL.pdb
+C:\Users\LENOVO\OneDrive\Pictures\Máy tính\QLBH\QLBH.DAL\bin\Debug\netcoreapp3.1\QLBH.Common.dll
+C:\Users\LENOVO\OneDrive\Pictures\Máy tính\QLBH\QLBH.DAL\bin\Debug\netcoreapp3.1\QLBH.Common.pdb
+C:\Users\LENOVO\OneDrive\Pictures\Máy tính\QLBH\QLBH.DAL\obj\Debug\netcoreapp3.1\QLBH.DAL.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Pictures\Máy tính\QLBH\QLBH.DAL\obj\Debug\netcoreapp3.1\QLBH.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Pictures\Máy tính\QLBH\QLBH.DAL\obj\Debug\netcoreapp3.1\QLBH.DAL.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Pictures\Máy tính\QLBH\QLBH.DAL\obj\Debug\netcoreapp3.1\QLBH.DAL.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Pictures\Máy tính\QLBH\QLBH.DAL\obj\Debug\netcoreapp3.1\QLBH.DAL.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Pictures\Máy tính\QLBH\QLBH.DAL\obj\Debug\netcoreapp3.1\QLBH.DAL.csproj.Up2Date
+C:\Users\LENOVO\OneDrive\Pictures\Máy tính\QLBH\QLBH.DAL\obj\Debug\netcoreapp3.1\QLBH.DAL.dll
+C:\Users\LENOVO\OneDrive\Pictures\Máy tính\QLBH\QLBH.DAL\obj\Debug\netcoreapp3.1\QLBH.DAL.pdb
+C:\Users\LENOVO\OneDrive\Pictures\Máy tính\QLBH\QLBH.DAL\obj\Debug\netcoreapp3.1\QLBH.DAL.genruntimeconfig.cache

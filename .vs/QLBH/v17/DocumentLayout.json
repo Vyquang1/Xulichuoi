@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBA73BD-DA53-4E9F-B02D-0D2A6572381E}|QLBH.Web\\QLBH.Web.csproj|c:\\users\\lenovo\\onedrive\\pictures\\m\u00E1y t\u00EDnh\\qlbh\\qlbh.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FBA73BD-DA53-4E9F-B02D-0D2A6572381E}|QLBH.Web\\QLBH.Web.csproj|solutionrelative:qlbh.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBA73BD-DA53-4E9F-B02D-0D2A6572381E}|QLBH.Web\\QLBH.Web.csproj|c:\\users\\lenovo\\onedrive\\pictures\\m\u00E1y t\u00EDnh\\qlbh\\qlbh.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FBA73BD-DA53-4E9F-B02D-0D2A6572381E}|QLBH.Web\\QLBH.Web.csproj|solutionrelative:qlbh.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35F7783-AB2A-4C0A-9207-80ADC889B09F}|QLBH.Common\\QLBH.Common.csproj|C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\qlbh.common\\req\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D35F7783-AB2A-4C0A-9207-80ADC889B09F}|QLBH.Common\\QLBH.Common.csproj|solutionrelative:qlbh.common\\req\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81461576-B55A-4BDD-BC86-4BADABA60ED2}|QLBH.BLL\\QLBH.BLL.csproj|c:\\users\\lenovo\\onedrive\\pictures\\m\u00E1y t\u00EDnh\\qlbh\\qlbh.bll\\qlbh.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{81461576-B55A-4BDD-BC86-4BADABA60ED2}|QLBH.BLL\\QLBH.BLL.csproj|solutionrelative:qlbh.bll\\qlbh.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81461576-B55A-4BDD-BC86-4BADABA60ED2}|QLBH.BLL\\QLBH.BLL.csproj|C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\qlbh.bll\\categorysvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81461576-B55A-4BDD-BC86-4BADABA60ED2}|QLBH.BLL\\QLBH.BLL.csproj|solutionrelative:qlbh.bll\\categorysvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35F7783-AB2A-4C0A-9207-80ADC889B09F}|QLBH.Common\\QLBH.Common.csproj|C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\qlbh.common\\qlbh.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D35F7783-AB2A-4C0A-9207-80ADC889B09F}|QLBH.Common\\QLBH.Common.csproj|solutionrelative:qlbh.common\\qlbh.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBA73BD-DA53-4E9F-B02D-0D2A6572381E}|QLBH.Web\\QLBH.Web.csproj|C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\qlbh.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3FBA73BD-DA53-4E9F-B02D-0D2A6572381E}|QLBH.Web\\QLBH.Web.csproj|solutionrelative:qlbh.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35F7783-AB2A-4C0A-9207-80ADC889B09F}|QLBH.Common\\QLBH.Common.csproj|C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\qlbh.common\\rsp\\multiplersp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D35F7783-AB2A-4C0A-9207-80ADC889B09F}|QLBH.Common\\QLBH.Common.csproj|solutionrelative:qlbh.common\\rsp\\multiplersp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35F7783-AB2A-4C0A-9207-80ADC889B09F}|QLBH.Common\\QLBH.Common.csproj|C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\qlbh.common\\rsp\\basersp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D35F7783-AB2A-4C0A-9207-80ADC889B09F}|QLBH.Common\\QLBH.Common.csproj|solutionrelative:qlbh.common\\rsp\\basersp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22EE203-5AF7-453E-9118-FC095944BE08}|QLBH.DAL\\QLBH.DAL.csproj|C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\qlbh.dal\\qlbh.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F22EE203-5AF7-453E-9118-FC095944BE08}|QLBH.DAL\\QLBH.DAL.csproj|solutionrelative:qlbh.dal\\qlbh.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35F7783-AB2A-4C0A-9207-80ADC889B09F}|QLBH.Common\\QLBH.Common.csproj|C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\qlbh.common\\req\\simplereq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D35F7783-AB2A-4C0A-9207-80ADC889B09F}|QLBH.Common\\QLBH.Common.csproj|solutionrelative:qlbh.common\\req\\simplereq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35F7783-AB2A-4C0A-9207-80ADC889B09F}|QLBH.Common\\QLBH.Common.csproj|C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\qlbh.common\\req\\searchproductreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D35F7783-AB2A-4C0A-9207-80ADC889B09F}|QLBH.Common\\QLBH.Common.csproj|solutionrelative:qlbh.common\\req\\searchproductreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35F7783-AB2A-4C0A-9207-80ADC889B09F}|QLBH.Common\\QLBH.Common.csproj|C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\qlbh.common\\req\\basereq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D35F7783-AB2A-4C0A-9207-80ADC889B09F}|QLBH.Common\\QLBH.Common.csproj|solutionrelative:qlbh.common\\req\\basereq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35F7783-AB2A-4C0A-9207-80ADC889B09F}|QLBH.Common\\QLBH.Common.csproj|C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\qlbh.common\\dal\\genericrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D35F7783-AB2A-4C0A-9207-80ADC889B09F}|QLBH.Common\\QLBH.Common.csproj|solutionrelative:qlbh.common\\dal\\genericrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35F7783-AB2A-4C0A-9207-80ADC889B09F}|QLBH.Common\\QLBH.Common.csproj|C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\qlbh.common\\bll\\igenericsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D35F7783-AB2A-4C0A-9207-80ADC889B09F}|QLBH.Common\\QLBH.Common.csproj|solutionrelative:qlbh.common\\bll\\igenericsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35F7783-AB2A-4C0A-9207-80ADC889B09F}|QLBH.Common\\QLBH.Common.csproj|C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\qlbh.common\\bll\\genericsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D35F7783-AB2A-4C0A-9207-80ADC889B09F}|QLBH.Common\\QLBH.Common.csproj|solutionrelative:qlbh.common\\bll\\genericsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBA73BD-DA53-4E9F-B02D-0D2A6572381E}|QLBH.Web\\QLBH.Web.csproj|C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\qlbh.web\\qlbh.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3FBA73BD-DA53-4E9F-B02D-0D2A6572381E}|QLBH.Web\\QLBH.Web.csproj|solutionrelative:qlbh.web\\qlbh.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22EE203-5AF7-453E-9118-FC095944BE08}|QLBH.DAL\\QLBH.DAL.csproj|C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\qlbh.dal\\categoryrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22EE203-5AF7-453E-9118-FC095944BE08}|QLBH.DAL\\QLBH.DAL.csproj|solutionrelative:qlbh.dal\\categoryrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35F7783-AB2A-4C0A-9207-80ADC889B09F}|QLBH.Common\\QLBH.Common.csproj|C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\qlbh.common\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D35F7783-AB2A-4C0A-9207-80ADC889B09F}|QLBH.Common\\QLBH.Common.csproj|solutionrelative:qlbh.common\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\QLBH.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLBH.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\QLBH.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "QLBH.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T01:16:15.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\QLBH.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "QLBH.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\QLBH.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "QLBH.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T01:16:11.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\QLBH.Web\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "QLBH.Web\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\QLBH.Web\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "QLBH.Web\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-14T01:11:22.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MultipleRsp.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\QLBH.Common\\Rsp\\MultipleRsp.cs",
+              "RelativeDocumentMoniker": "QLBH.Common\\Rsp\\MultipleRsp.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\QLBH.Common\\Rsp\\MultipleRsp.cs",
+              "RelativeToolTip": "QLBH.Common\\Rsp\\MultipleRsp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T01:10:47.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseRsp.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\QLBH.Common\\Rsp\\BaseRsp.cs",
+              "RelativeDocumentMoniker": "QLBH.Common\\Rsp\\BaseRsp.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\QLBH.Common\\Rsp\\BaseRsp.cs",
+              "RelativeToolTip": "QLBH.Common\\Rsp\\BaseRsp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T01:10:46.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SimpleReq.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\QLBH.Common\\Req\\SimpleReq.cs",
+              "RelativeDocumentMoniker": "QLBH.Common\\Req\\SimpleReq.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\QLBH.Common\\Req\\SimpleReq.cs",
+              "RelativeToolTip": "QLBH.Common\\Req\\SimpleReq.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T01:10:44.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SearchProductReq.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\QLBH.Common\\Req\\SearchProductReq.cs",
+              "RelativeDocumentMoniker": "QLBH.Common\\Req\\SearchProductReq.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\QLBH.Common\\Req\\SearchProductReq.cs",
+              "RelativeToolTip": "QLBH.Common\\Req\\SearchProductReq.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T01:10:44.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseReq.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\QLBH.Common\\Req\\BaseReq.cs",
+              "RelativeDocumentMoniker": "QLBH.Common\\Req\\BaseReq.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\QLBH.Common\\Req\\BaseReq.cs",
+              "RelativeToolTip": "QLBH.Common\\Req\\BaseReq.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T01:10:43.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\QLBH.Common\\Req\\BaseModel.cs",
+              "RelativeDocumentMoniker": "QLBH.Common\\Req\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\QLBH.Common\\Req\\BaseModel.cs",
+              "RelativeToolTip": "QLBH.Common\\Req\\BaseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T01:10:43.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QLBH.DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\QLBH.DAL\\QLBH.DAL.csproj",
+              "RelativeDocumentMoniker": "QLBH.DAL\\QLBH.DAL.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\QLBH.DAL\\QLBH.DAL.csproj",
+              "RelativeToolTip": "QLBH.DAL\\QLBH.DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-14T01:06:39.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategorySvc.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\QLBH.BLL\\CategorySvc.cs",
+              "RelativeDocumentMoniker": "QLBH.BLL\\CategorySvc.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\QLBH.BLL\\CategorySvc.cs",
+              "RelativeToolTip": "QLBH.BLL\\CategorySvc.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T01:06:24.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QLBH.BLL.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\QLBH.BLL\\QLBH.BLL.csproj",
+              "RelativeDocumentMoniker": "QLBH.BLL\\QLBH.BLL.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\QLBH.BLL\\QLBH.BLL.csproj",
+              "RelativeToolTip": "QLBH.BLL\\QLBH.BLL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-14T01:06:10.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QLBH.Common.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\QLBH.Common\\QLBH.Common.csproj",
+              "RelativeDocumentMoniker": "QLBH.Common\\QLBH.Common.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\QLBH.Common\\QLBH.Common.csproj",
+              "RelativeToolTip": "QLBH.Common\\QLBH.Common.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-14T01:06:14.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GenericRep.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\QLBH.Common\\DAL\\GenericRep.cs",
+              "RelativeDocumentMoniker": "QLBH.Common\\DAL\\GenericRep.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\QLBH.Common\\DAL\\GenericRep.cs",
+              "RelativeToolTip": "QLBH.Common\\DAL\\GenericRep.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T01:10:41.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IGenericSvc.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\QLBH.Common\\BLL\\IGenericSvc.cs",
+              "RelativeDocumentMoniker": "QLBH.Common\\BLL\\IGenericSvc.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\QLBH.Common\\BLL\\IGenericSvc.cs",
+              "RelativeToolTip": "QLBH.Common\\BLL\\IGenericSvc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T01:10:37.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GenericSvc.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\QLBH.Common\\BLL\\GenericSvc.cs",
+              "RelativeDocumentMoniker": "QLBH.Common\\BLL\\GenericSvc.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\QLBH.Common\\BLL\\GenericSvc.cs",
+              "RelativeToolTip": "QLBH.Common\\BLL\\GenericSvc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T01:10:37.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoryRep.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\QLBH.DAL\\CategoryRep.cs",
+              "RelativeDocumentMoniker": "QLBH.DAL\\CategoryRep.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\QLBH.DAL\\CategoryRep.cs",
+              "RelativeToolTip": "QLBH.DAL\\CategoryRep.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T01:06:43.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "QLBH.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\QLBH.Web\\QLBH.Web.csproj",
+              "RelativeDocumentMoniker": "QLBH.Web\\QLBH.Web.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\QLBH.Web\\QLBH.Web.csproj",
+              "RelativeToolTip": "QLBH.Web\\QLBH.Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-14T01:06:42.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\QLBH.Common\\Class1.cs",
+              "RelativeDocumentMoniker": "QLBH.Common\\Class1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Pictures\\M\u00E1y t\u00EDnh\\QLBH\\QLBH.Common\\Class1.cs",
+              "RelativeToolTip": "QLBH.Common\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T01:06:33.474Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
